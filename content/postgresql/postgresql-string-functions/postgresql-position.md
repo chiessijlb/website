@@ -59,7 +59,7 @@ position
 (1 row)
 ```
 
-Note that the `POSITION()` function searches for the substring case\-insensitively.
+Note that the `POSITION()` function searches for the substring case\-sensitively.
 
 See the following example:
 
